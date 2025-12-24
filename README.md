@@ -28,8 +28,8 @@ instacheck -i instagramID -s instagramsessionid
 ## 📈 Example
 
 ```
-Informations about     : xxxusernamexxx
-Full Name              : xxxusernamesxx | userID : 123456789
+Informations about     : username
+Full Name              : usernames | userID : 123456789
 Verified               : False | Is buisness Account : False
 Is private Account     : False
 Follower               : xxx | Following : xxx
