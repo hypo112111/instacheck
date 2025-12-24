@@ -3,18 +3,17 @@ from setuptools import setup, find_packages
 
 
 setup(
-    name='toutatis',
+    name='instacheck',
     version="1.31",
     packages=find_packages(),
-    author="megadose",
+    author="hypo112111",
     install_requires=["argparse","requests","phonenumbers","pycountry"],
-    description="It is a tool written to retrieve private information such as Phone Number, Mail Address, ID on Instagram accounts via API.",
-    long_description="It is a tool written to retrieve private information such as Phone Number, Mail Address, ID on Instagram accounts via API.",
+    description="It is a tool written to retrieve basic info on Instagram accounts",
+    long_description="It is a tool written to retrieve basic info on Instagram accounts",
     include_package_data=True,
-    url='http://github.com/megadose/toutatis',
-    entry_points = {'console_scripts': ['toutatis = toutatis.core:main']},
+    url='http://github.com/hypo112111/instacheck',
+    entry_points = {'console_scripts': ['instacheck = instacheck.core:main']},
     classifiers=[
         "Programming Language :: Python",
-        "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
     ],
 )
