@@ -1,5 +1,5 @@
-# Toutatis
-Toutatis is a tool that allows you to extract information from instagrams accounts such as e-mails, phone numbers and more </br>
+# Instacheck
+Instacheck is a tool that allows you to extract basic information from instagrams accounts</br>
 
 ## 🛠️ Installation
 
