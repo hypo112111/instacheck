@@ -1,1 +1,1 @@
-from toutatis.core import *
+from instacheck.core import *
